@@ -1,0 +1,9 @@
+public Demo class{
+
+public static void main(String [] arg){
+
+system.out.println("New file created");
+
+}
+
+}
